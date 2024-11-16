@@ -1,5 +1,5 @@
 ﻿from docx import Document
-
+ 
 
 class Read_dox: 
 
