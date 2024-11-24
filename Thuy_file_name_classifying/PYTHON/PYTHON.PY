@@ -47,7 +47,6 @@ def classify_and_move_file(file_path):
         if os.path.isdir(os.path.join(base_path, folder)) and folder.lower() in main_folder_name:
             target_main_folder = os.path.join(base_path, folder)
             break
-
     # Nếu chưa có thư mục chứa tên file, tạo thư mục mới
     if not target_main_folder:
         target_main_folder = os.path.join(base_path, main_folder_name)
@@ -58,7 +57,6 @@ def classify_and_move_file(file_path):
         sub_folder = file_extension[1:]  # Lấy tên thư mục là phần mở rộng không có dấu "."
     else:
         sub_folder = "others"  # Nếu không có đuôi file
-
     # Tạo thư mục con trong thư mục chính nếu chưa tồn tại
     target_subfolder = os.path.join(target_main_folder, sub_folder)
     if not os.path.exists(target_subfolder):

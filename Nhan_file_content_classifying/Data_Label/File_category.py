@@ -1,6 +1,6 @@
 ﻿file_categories = {
     "Sinh viên và học sinh": {
-        "Tài liệu môn học": [".pdf", ".docx", ".pptx"],
+        "Tài liệu môn học": ["tinh hocj baor mag", ".docx", ".pptx"],
         "Bài tập": [".docx", ".xlsx"],
         "Dự án nhóm": [".zip", ".docx", ".pptx"],
         "Bài thuyết trình": [".pptx", ".pdf"],
