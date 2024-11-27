@@ -1,13 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Nhan_file_content_classifying",
-    "\\Nhan_file_content_classifying\\Cao_du_lieu\\Nhan_collectdata",
-    "\\Nhan_file_content_classifying\\Cao_du_lieu\\Nhan_collectdata\\collecting_sample",
-    "\\Nhan_file_content_classifying\\Cao_du_lieu\\Nhan_collectdata\\collecting_sample\\collecting_sample",
-    "\\Nhan_file_content_classifying\\Cao_du_lieu\\Nhan_collectdata\\collecting_sample\\collecting_sample\\spiders\\__pycache__",
-    "\\work_with_file"
+    "\\algorithms\\ Word Frequency Analysis",
+    "\\algorithms\\Non-ML Approach",
+    "\\work_with_file",
+    "\\work_with_file\\text_file"
   ],
-  "SelectedNode": "\\work_with_file",
+  "SelectedNode": "\\material",
   "PreviewInSolutionExplorer": false
 }

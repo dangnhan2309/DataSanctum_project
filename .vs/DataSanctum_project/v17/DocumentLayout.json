@@ -3,34 +3,6 @@
   "WorkspaceRootPath": "D:\\DataSanctum_project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DataSanctum_project\\work_with_file\\text_file\\request.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:work_with_file\\text_file\\request.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DataSanctum_project\\work_with_file\\text_file\\read_file.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:work_with_file\\text_file\\read_file.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DataSanctum_project\\work_with_file\\text_file\\types_can_accept.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:work_with_file\\text_file\\types_can_accept.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DataSanctum_project\\Nhan_file_content_classifying\\demo_app\\111Windows.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Nhan_file_content_classifying\\demo_app\\111Windows.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DataSanctum_project\\bo_qua_file_vs.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bo_qua_file_vs.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DataSanctum_project\\work_with_file\\text_file\\python-docx\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:work_with_file\\text_file\\python-docx\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DataSanctum_project\\Nhan_file_content_classifying\\Cao_du_lieu\\Nhan_collectdata\\collecting_sample\\collecting_sample\\spiders\\newsample_forscrapy.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Nhan_file_content_classifying\\Cao_du_lieu\\Nhan_collectdata\\collecting_sample\\collecting_sample\\spiders\\newsample_forscrapy.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DataSanctum_project\\algorithms\\Non-ML Approach\\lib_Collections.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:algorithms\\Non-ML Approach\\lib_Collections.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -39,16 +11,52 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:algorithms\\ Word Frequency Analysis\\frequency_of_word.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DataSanctum_project\\algorithms\\ Word Frequency Analysis\\Bag-of-words.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:algorithms\\ Word Frequency Analysis\\Bag-of-words.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DataSanctum_project\\algorithms\\ Word Frequency Analysis\\count_word.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:algorithms\\ Word Frequency Analysis\\count_word.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DataSanctum_project\\algorithms\\ Word Frequency Analysis\\Bag-of-words.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:algorithms\\ Word Frequency Analysis\\Bag-of-words.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DataSanctum_project\\Machine_Learning\\cancel.ipynb||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Machine_Learning\\cancel.ipynb||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DataSanctum_project\\work_with_file\\text_file\\types_can_accept.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:work_with_file\\text_file\\types_can_accept.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DataSanctum_project\\using_for_undate_ingithub.gitkeep||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:using_for_undate_ingithub.gitkeep||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DataSanctum_project\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DataSanctum_project\\bo_qua_file_vs.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bo_qua_file_vs.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DataSanctum_project\\work_with_file\\text_file\\read_file.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:work_with_file\\text_file\\read_file.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DataSanctum_project\\work_with_file\\text_file\\request.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:work_with_file\\text_file\\request.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DataSanctum_project\\Nhan_file_content_classifying\\demo_app\\111Windows.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Nhan_file_content_classifying\\demo_app\\111Windows.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DataSanctum_project\\work_with_file\\text_file\\python-docx\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:work_with_file\\text_file\\python-docx\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DataSanctum_project\\Nhan_file_content_classifying\\Cao_du_lieu\\Nhan_collectdata\\collecting_sample\\collecting_sample\\spiders\\newsample_forscrapy.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Nhan_file_content_classifying\\Cao_du_lieu\\Nhan_collectdata\\collecting_sample\\collecting_sample\\spiders\\newsample_forscrapy.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DataSanctum_project\\Nhan_file_content_classifying\\demo_app\\Classifying_Program.py||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -81,10 +89,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DataSanctum_project\\Thuy_file_name_classifying\\PYTHON\\PYTHON.PY||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Thuy_file_name_classifying\\PYTHON\\PYTHON.PY||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DataSanctum_project\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DataSanctum_project\\Nhan_file_content_classifying\\new.py||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -141,12 +145,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -157,32 +157,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "using_for_undate_ingithub.gitkeep",
+              "DocumentMoniker": "D:\\DataSanctum_project\\using_for_undate_ingithub.gitkeep",
+              "RelativeDocumentMoniker": "using_for_undate_ingithub.gitkeep",
+              "ToolTip": "D:\\DataSanctum_project\\using_for_undate_ingithub.gitkeep",
+              "RelativeToolTip": "using_for_undate_ingithub.gitkeep",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-27T04:05:31.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "request.py",
               "DocumentMoniker": "D:\\DataSanctum_project\\work_with_file\\text_file\\request.py",
               "RelativeDocumentMoniker": "work_with_file\\text_file\\request.py",
               "ToolTip": "D:\\DataSanctum_project\\work_with_file\\text_file\\request.py",
               "RelativeToolTip": "work_with_file\\text_file\\request.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2024-11-23T14:13:32.432Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "types_can_accept.py",
               "DocumentMoniker": "D:\\DataSanctum_project\\work_with_file\\text_file\\types_can_accept.py",
               "RelativeDocumentMoniker": "work_with_file\\text_file\\types_can_accept.py",
               "ToolTip": "D:\\DataSanctum_project\\work_with_file\\text_file\\types_can_accept.py",
               "RelativeToolTip": "work_with_file\\text_file\\types_can_accept.py",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADUAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADEAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-11-23T12:40:32.193Z"
+              "WhenOpened": "2024-11-23T12:40:32.193Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "bo_qua_file_vs.gitignore",
               "DocumentMoniker": "D:\\DataSanctum_project\\bo_qua_file_vs.gitignore",
               "RelativeDocumentMoniker": "bo_qua_file_vs.gitignore",
@@ -190,11 +204,12 @@
               "RelativeToolTip": "bo_qua_file_vs.gitignore",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-11-23T12:39:22.91Z"
+              "WhenOpened": "2024-11-23T12:39:22.91Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "readme.md",
               "DocumentMoniker": "D:\\DataSanctum_project\\work_with_file\\text_file\\python-docx\\readme.md",
               "RelativeDocumentMoniker": "work_with_file\\text_file\\python-docx\\readme.md",
@@ -202,11 +217,12 @@
               "RelativeToolTip": "work_with_file\\text_file\\python-docx\\readme.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-11-23T11:59:52.804Z"
+              "WhenOpened": "2024-11-23T11:59:52.804Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "read_file.py",
               "DocumentMoniker": "D:\\DataSanctum_project\\work_with_file\\text_file\\read_file.py",
               "RelativeDocumentMoniker": "work_with_file\\text_file\\read_file.py",
@@ -214,11 +230,12 @@
               "RelativeToolTip": "work_with_file\\text_file\\read_file.py",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-11-23T11:57:01.995Z"
+              "WhenOpened": "2024-11-23T11:57:01.995Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "lib_Collections.py",
               "DocumentMoniker": "D:\\DataSanctum_project\\algorithms\\Non-ML Approach\\lib_Collections.py",
               "RelativeDocumentMoniker": "algorithms\\Non-ML Approach\\lib_Collections.py",
@@ -226,11 +243,12 @@
               "RelativeToolTip": "algorithms\\Non-ML Approach\\lib_Collections.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-11-23T11:53:22.135Z"
+              "WhenOpened": "2024-11-23T11:53:22.135Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "frequency_of_word.py",
               "DocumentMoniker": "D:\\DataSanctum_project\\algorithms\\ Word Frequency Analysis\\frequency_of_word.py",
               "RelativeDocumentMoniker": "algorithms\\ Word Frequency Analysis\\frequency_of_word.py",
@@ -238,11 +256,12 @@
               "RelativeToolTip": "algorithms\\ Word Frequency Analysis\\frequency_of_word.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-11-23T11:52:33.74Z"
+              "WhenOpened": "2024-11-23T11:52:33.74Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "Bag-of-words.py",
               "DocumentMoniker": "D:\\DataSanctum_project\\algorithms\\ Word Frequency Analysis\\Bag-of-words.py",
               "RelativeDocumentMoniker": "algorithms\\ Word Frequency Analysis\\Bag-of-words.py",
@@ -250,11 +269,12 @@
               "RelativeToolTip": "algorithms\\ Word Frequency Analysis\\Bag-of-words.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-11-23T11:27:29.619Z"
+              "WhenOpened": "2024-11-23T11:27:29.619Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
               "Title": "count_word.py",
               "DocumentMoniker": "D:\\DataSanctum_project\\algorithms\\ Word Frequency Analysis\\count_word.py",
               "RelativeDocumentMoniker": "algorithms\\ Word Frequency Analysis\\count_word.py",
@@ -262,11 +282,12 @@
               "RelativeToolTip": "algorithms\\ Word Frequency Analysis\\count_word.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-11-23T11:26:55.856Z"
+              "WhenOpened": "2024-11-23T11:26:55.856Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 4,
               "Title": "cancel.ipynb",
               "DocumentMoniker": "D:\\DataSanctum_project\\Machine_Learning\\cancel.ipynb",
               "RelativeDocumentMoniker": "Machine_Learning\\cancel.ipynb",
@@ -274,11 +295,12 @@
               "RelativeToolTip": "Machine_Learning\\cancel.ipynb",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-11-23T03:19:54.63Z"
+              "WhenOpened": "2024-11-23T03:19:54.63Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "newsample_forscrapy.py",
               "DocumentMoniker": "D:\\DataSanctum_project\\Nhan_file_content_classifying\\Cao_du_lieu\\Nhan_collectdata\\collecting_sample\\collecting_sample\\spiders\\newsample_forscrapy.py",
               "RelativeDocumentMoniker": "Nhan_file_content_classifying\\Cao_du_lieu\\Nhan_collectdata\\collecting_sample\\collecting_sample\\spiders\\newsample_forscrapy.py",
@@ -286,11 +308,12 @@
               "RelativeToolTip": "Nhan_file_content_classifying\\Cao_du_lieu\\Nhan_collectdata\\collecting_sample\\collecting_sample\\spiders\\newsample_forscrapy.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-11-17T05:08:16.838Z"
+              "WhenOpened": "2024-11-17T05:08:16.838Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "__init__.py",
               "DocumentMoniker": "D:\\DataSanctum_project\\Nhan_file_content_classifying\\Cao_du_lieu\\Nhan_collectdata\\collecting_sample\\collecting_sample\\spiders\\__init__.py",
               "RelativeDocumentMoniker": "Nhan_file_content_classifying\\Cao_du_lieu\\Nhan_collectdata\\collecting_sample\\collecting_sample\\spiders\\__init__.py",
@@ -298,11 +321,12 @@
               "RelativeToolTip": "Nhan_file_content_classifying\\Cao_du_lieu\\Nhan_collectdata\\collecting_sample\\collecting_sample\\spiders\\__init__.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-11-17T05:06:15.997Z"
+              "WhenOpened": "2024-11-17T05:06:15.997Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Scrapy_data.py",
               "DocumentMoniker": "D:\\DataSanctum_project\\Nhan_file_content_classifying\\Cao_du_lieu\\Nhan_collectdata\\Scrapy_data.py",
               "RelativeDocumentMoniker": "Nhan_file_content_classifying\\Cao_du_lieu\\Nhan_collectdata\\Scrapy_data.py",
@@ -310,11 +334,12 @@
               "RelativeToolTip": "Nhan_file_content_classifying\\Cao_du_lieu\\Nhan_collectdata\\Scrapy_data.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-11-17T05:04:37.323Z"
+              "WhenOpened": "2024-11-17T05:04:37.323Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "Cao_dulieu.py",
               "DocumentMoniker": "D:\\DataSanctum_project\\Nhan_file_content_classifying\\Cao_du_lieu\\Cao_dulieu.py",
               "RelativeDocumentMoniker": "Nhan_file_content_classifying\\Cao_du_lieu\\Cao_dulieu.py",
@@ -322,11 +347,12 @@
               "RelativeToolTip": "Nhan_file_content_classifying\\Cao_du_lieu\\Cao_dulieu.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-11-17T04:05:00.782Z"
+              "WhenOpened": "2024-11-17T04:05:00.782Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "111Read_content.py",
               "DocumentMoniker": "D:\\DataSanctum_project\\Nhan_file_content_classifying\\Funtion\\111Read_content.py",
               "RelativeDocumentMoniker": "Nhan_file_content_classifying\\Funtion\\111Read_content.py",
@@ -334,11 +360,12 @@
               "RelativeToolTip": "Nhan_file_content_classifying\\Funtion\\111Read_content.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-11-17T04:01:40.915Z"
+              "WhenOpened": "2024-11-17T04:01:40.915Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "PYTHON.PY",
               "DocumentMoniker": "D:\\DataSanctum_project\\Thuy_file_name_classifying\\PYTHON\\PYTHON.PY",
               "RelativeDocumentMoniker": "Thuy_file_name_classifying\\PYTHON\\PYTHON.PY",
@@ -346,11 +373,12 @@
               "RelativeToolTip": "Thuy_file_name_classifying\\PYTHON\\PYTHON.PY",
               "ViewState": "AgIAABgAAAAAAAAAAAAAADoAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-11-17T03:58:41.988Z"
+              "WhenOpened": "2024-11-17T03:58:41.988Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 7,
               "Title": "README.md",
               "DocumentMoniker": "D:\\DataSanctum_project\\README.md",
               "RelativeDocumentMoniker": "README.md",
@@ -358,11 +386,12 @@
               "RelativeToolTip": "README.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABpAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-11-16T12:29:51.577Z"
+              "WhenOpened": "2024-11-16T12:29:51.577Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "111Windows.py",
               "DocumentMoniker": "D:\\DataSanctum_project\\Nhan_file_content_classifying\\demo_app\\111Windows.py",
               "RelativeDocumentMoniker": "Nhan_file_content_classifying\\demo_app\\111Windows.py",
@@ -370,11 +399,12 @@
               "RelativeToolTip": "Nhan_file_content_classifying\\demo_app\\111Windows.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-11-16T12:29:08.081Z"
+              "WhenOpened": "2024-11-16T12:29:08.081Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "new.py",
               "DocumentMoniker": "D:\\DataSanctum_project\\Nhan_file_content_classifying\\new.py",
               "RelativeDocumentMoniker": "Nhan_file_content_classifying\\new.py",
@@ -385,7 +415,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "TKTEST.PY",
               "DocumentMoniker": "D:\\DataSanctum_project\\Nhan_file_content_classifying\\TKTEST.PY",
               "RelativeDocumentMoniker": "Nhan_file_content_classifying\\TKTEST.PY",
@@ -396,7 +426,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "tkinter_testing.py",
               "DocumentMoniker": "D:\\DataSanctum_project\\Nhan_file_content_classifying\\Tkinter_windows\\tkinter_testing.py",
               "RelativeDocumentMoniker": "Nhan_file_content_classifying\\Tkinter_windows\\tkinter_testing.py",
@@ -404,11 +434,12 @@
               "RelativeToolTip": "Nhan_file_content_classifying\\Tkinter_windows\\tkinter_testing.py",
               "ViewState": "AgIAABcAAAAAAAAAAAAiwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-11-15T07:24:44.711Z"
+              "WhenOpened": "2024-11-15T07:24:44.711Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Model_for_classifying.py",
               "DocumentMoniker": "D:\\DataSanctum_project\\Nhan_file_content_classifying\\Model_traing\\Model_for_classifying.py",
               "RelativeDocumentMoniker": "Nhan_file_content_classifying\\Model_traing\\Model_for_classifying.py",
@@ -416,11 +447,12 @@
               "RelativeToolTip": "Nhan_file_content_classifying\\Model_traing\\Model_for_classifying.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-11-14T13:54:39.714Z"
+              "WhenOpened": "2024-11-14T13:54:39.714Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "quet_va_lay_ten_file.py",
               "DocumentMoniker": "D:\\DataSanctum_project\\Nhan_file_content_classifying\\quet_va_lay_ten_file.py",
               "RelativeDocumentMoniker": "Nhan_file_content_classifying\\quet_va_lay_ten_file.py",
@@ -431,7 +463,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "File_category.py",
               "DocumentMoniker": "D:\\DataSanctum_project\\Nhan_file_content_classifying\\Data_Label\\File_category.py",
               "RelativeDocumentMoniker": "Nhan_file_content_classifying\\Data_Label\\File_category.py",
@@ -439,11 +471,12 @@
               "RelativeToolTip": "Nhan_file_content_classifying\\Data_Label\\File_category.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-11-14T13:45:07.008Z"
+              "WhenOpened": "2024-11-14T13:45:07.008Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "Check_resource_used.py",
               "DocumentMoniker": "D:\\DataSanctum_project\\Nhan_file_content_classifying\\Check_resource_used.py",
               "RelativeDocumentMoniker": "Nhan_file_content_classifying\\Check_resource_used.py",
@@ -454,7 +487,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Classifying_Program.py",
               "DocumentMoniker": "D:\\DataSanctum_project\\Nhan_file_content_classifying\\demo_app\\Classifying_Program.py",
               "RelativeDocumentMoniker": "Nhan_file_content_classifying\\demo_app\\Classifying_Program.py",
@@ -462,11 +495,12 @@
               "RelativeToolTip": "Nhan_file_content_classifying\\demo_app\\Classifying_Program.py",
               "ViewState": "AgIAAC4AAAAAAAAAAAAAADAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-11-13T12:36:16.358Z"
+              "WhenOpened": "2024-11-13T12:36:16.358Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "test_design_backgr.py",
               "DocumentMoniker": "D:\\DataSanctum_project\\Nhan_file_content_classifying\\test_design_backgr.py",
               "RelativeDocumentMoniker": "Nhan_file_content_classifying\\test_design_backgr.py",
@@ -477,7 +511,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "using_for_undate_ingithub.gitkeep",
               "DocumentMoniker": "D:\\DataSanctum_project\\Nhan_file_content_classifying\\using_for_undate_ingithub.gitkeep",
               "RelativeDocumentMoniker": "Nhan_file_content_classifying\\using_for_undate_ingithub.gitkeep",
@@ -485,11 +519,12 @@
               "RelativeToolTip": "Nhan_file_content_classifying\\using_for_undate_ingithub.gitkeep",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-11-13T12:01:08.422Z"
+              "WhenOpened": "2024-11-13T12:01:08.422Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "text.docx",
               "DocumentMoniker": "D:\\DataSanctum_project\\Nhan_file_content_classifying\\text.docx",
               "RelativeDocumentMoniker": "Nhan_file_content_classifying\\text.docx",
@@ -500,7 +535,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Read_content.py",
               "DocumentMoniker": "D:\\DataSanctum_project\\Nhan_file_content_classifying\\Read_content.py",
               "RelativeDocumentMoniker": "Nhan_file_content_classifying\\Read_content.py",
@@ -511,7 +546,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "demo_room.py",
               "DocumentMoniker": "C:\\Users\\NHAN\\Desktop\\demo_room.py",
               "ToolTip": "C:\\Users\\NHAN\\Desktop\\demo_room.py",
@@ -520,7 +555,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "Test_Pygame.py",
               "DocumentMoniker": "D:\\DataSanctum_project\\Nhan_file_content_classifying\\Test_Pygame.py",
               "RelativeDocumentMoniker": "Nhan_file_content_classifying\\Test_Pygame.py",
@@ -531,7 +566,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "new.py",
               "DocumentMoniker": "D:\\DataSanctum_project\\new.py",
               "RelativeDocumentMoniker": "new.py",
